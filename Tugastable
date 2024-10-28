@@ -1,0 +1,43 @@
+<html>
+<head>
+  <title>tugas tabel</title>
+</head >
+<body>
+  <table border ="1" align="center" cellpadding="10" cellspacing="5" width="500" height="300">
+    <thead bgcolor="red"</thead>
+      <th>Hari</th>
+      <th>Jam</th>
+      <th>Mata Kuliah</th>
+      <th>Dosen</th>
+      <th>Ruang</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="2">Senin</td>
+        <td>08.00-10.00</td>
+        <td>Kajian Islam</td>
+        <td>Ust.Anwar Nashinin.LC</td>
+        <td> Ruang Teori</td>
+         <tr>
+      
+        <td>10.00-12.00</td>
+        <td>Aplikasi Perkantoran</td>
+        <td>Drs.MGS Hendri,M.M</td>
+        <td rowspan="5">Ruang 1</td>
+      </tr>
+      
+        <td rowspan="2">Selasa</td>
+        <td>08.00-10.00 </td>
+        <td>Linux Fundamental </td>
+        <td> Hendry Saptono,S.SI,M.kom</td>
+      </tr>
+      
+        <td>10.00-12.00</td>
+        <td>HTML,CSS,Dan Javascript </td>
+        <td rowspan="3">Sirojul Munir,S.si,M.Kom</td>
+      </tr>
+      <tr>
+      
+        <td rowspan="2">Rabu</td>
+        <td>08.00-10.00</td>
+        <td>Basis Data</td>
